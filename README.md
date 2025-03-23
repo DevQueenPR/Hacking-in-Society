@@ -90,3 +90,18 @@ Would you like to **contribute** or improve this study? Feel free to open a **pu
 ## 📜 License
 
 This project is licensed under the **MIT License**. For more details, check the [LICENSE](LICENSE) file.  
+
+
+---
+
+## 👤 About the Author
+
+This project was developed by **Genesis M. Ojeda**, a passionate programmer and designer with a strong interest in emerging technologies such as **quantum computing** and **Artificial Intelligence**. 🎓 With experience in programming and data analysis, I aim to contribute to innovative solutions addressing the technological challenges of the future.
+
+📫 **Contact**:  
+- ✉️ **Email**: genesisojeda@ojedatech.com  
+- 💼 **LinkedIn**: [Génesis M. Ojeda](https://www.linkedin.com/in/génesis-ojeda-451576302)  
+- 🐙 **GitHub**: [DevQueenPR](https://github.com/DevQueenPR)  
+
+Thank you for reading and exploring this project! 🚀
+
